@@ -9,6 +9,7 @@ This dataset simulates a real-world e-commerce data warehouse with normalized re
 ### Data Source
 
 * Source: Kaggle (public dataset)
+* Link: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 * Provider: Olist (Brazilian e-commerce marketplace)
 * Time Period: 2016–2018
 

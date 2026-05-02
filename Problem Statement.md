@@ -53,13 +53,3 @@ The objective of this analysis is to identify bottlenecks in the e-commerce funn
 The insights generated will support data-driven decision-making to improve conversion rates, optimize delivery performance, and enhance overall business efficiency.
 
 ---
-
-## Approach & Methodology
-
-- Data cleaning and preparation of transactional datasets  
-- Creation of a unified analytical base table  
-- Funnel stage analysis (order → payment → delivery)  
-- Aggregation of revenue and cancellation metrics  
-- Regional and category-level performance analysis  
-- Correlation analysis between delivery time and customer reviews  
-- Customer segmentation for retention and repeat behaviour  

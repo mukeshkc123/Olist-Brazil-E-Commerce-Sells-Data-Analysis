@@ -1,12 +1,12 @@
-# 🛒 E-Commerce Funnel & Revenue Leakage Analysis
+# E-Commerce Funnel & Revenue Leakage Analysis
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes an e-commerce dataset (~100K+ orders) to understand **conversion efficiency, revenue leakage, and operational bottlenecks**. The goal is to identify where the business is losing revenue and provide actionable insights to improve performance.
 
 ---
 
-## 🎯 Business Objectives
+## Business Objectives
 
 * Analyze **order funnel conversion** (Created → Payment → Delivered)
 * Identify **drop-off points** in the customer journey
@@ -32,7 +32,7 @@ The dataset consists of multiple relational tables:
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 * SQL (MySQL)
 * DBeaver
@@ -40,7 +40,7 @@ The dataset consists of multiple relational tables:
 
 ---
 
-## 🔍 Analytical Approach
+## Analytical Approach
 
 ### 1. Data Preparation
 
@@ -78,29 +78,29 @@ The dataset consists of multiple relational tables:
 
 ---
 
-## 📊 Key Findings
+## Key Findings
 
-* ✅ **~97% Delivery Success Rate**
+* **~97% Delivery Success Rate**
   Strong operational efficiency with most orders successfully fulfilled.
 
-* 💳 **~100% Payment Conversion**
+* **~100% Payment Conversion**
   Minimal drop-off during checkout, indicating a smooth payment experience.
 
-* ⚠️ **~3% Post-Payment Drop-off**
+* **~3% Post-Payment Drop-off**
   Failures occur after payment, pointing to logistics and inventory issues.
 
-* 💸 **~1.7% Revenue Leakage (~₹2.7L)**
+* **~1.7% Revenue Leakage (~₹2.7L)**
   Revenue loss driven primarily by cancellations and product unavailability.
 
-* 🌍 **Regional Variations Exist**
+* **Regional Variations Exist**
   Certain states show lower delivery success and higher revenue loss.
 
-* 🛒 **Category-Level Issues**
+* **Category-Level Issues**
   Specific product categories contribute disproportionately to cancellations.
 
 ---
 
-## 📈 Funnel Summary
+## Funnel Summary
 
 | Stage             | Orders | Conversion Rate | Drop-off |
 | ----------------- | ------ | --------------- | -------- |
@@ -110,7 +110,7 @@ The dataset consists of multiple relational tables:
 
 ---
 
-## 💡 Business Insights
+## Business Insights
 
 * The **primary bottleneck lies in post-payment operations**, not customer acquisition or checkout.
 * Improving **logistics and inventory management** can directly recover lost revenue.
@@ -118,7 +118,7 @@ The dataset consists of multiple relational tables:
 
 ---
 
-## 🚀 Recommendations
+## Recommendations
 
 * Optimize logistics in **low-performing regions**
 * Improve inventory planning for **high-cancellation categories**
@@ -128,13 +128,13 @@ The dataset consists of multiple relational tables:
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 
 This project demonstrates how data analysis can uncover **hidden inefficiencies in operations**. While the business shows strong conversion and fulfillment rates, targeted improvements in logistics and inventory can further enhance revenue and customer satisfaction.
 
 ---
 
-## 👤 Author
+## Author
 
 **Mukesh**
 Data / Business Analyst
